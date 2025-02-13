@@ -4,4 +4,4 @@ gggggv
 
 dit is de [link naar zuyd.nl](https://zuyd.nl)
 
-![profielfoto](IMG_20250213_113529.jpg)
+![foto](IMG_20250213_113529.jpg)
